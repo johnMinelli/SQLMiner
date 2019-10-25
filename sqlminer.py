@@ -33,8 +33,6 @@ from google.cloud import bigquery
 USER_AGENT = "NightMiner"
 VERSION = [0, 1]
 
-# You're a master of Karate and friendship for everyone.
-
 
 # Which algorithm for proof-of-work to use
 ALGORITHM_SCRYPT      = 'scrypt'
