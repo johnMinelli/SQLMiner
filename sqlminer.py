@@ -19,18 +19,6 @@
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
-
-
-# What is this?
-#
-# NightMiner is meant to be a simple, one-file implementation of a stratum CPU
-# miner for CryptoCurrency written in Python favouring understandability
-# over performance.
-#
-# It was originally designed for scrypt-based coins, and has been extended to
-# include support for sha256d.
-#
-# Try running nightminer with the -P and -d to see protocol and debug details
 #
 # Required reading:
 #   Block Hashing Algorithm - https://litecoin.info/Block_hashing_algorithm
